@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+
+body{
+  font-family: "Open Sans",arial,sans-serif;
+  font-size: 16px;
+  background-color: rbga(234, 213, 208,0.5)
+}
+
+header  .container a .nav-link{
+  color: #fff;
+}
+
+header  .container a .nav-link{
+  background-color: #fff;
+}
+header  .slide h3{
+  font-family: "Doris",arial,sans-serif;
+  font-size: 60px;
+  text-align: left;
+  color: #fff;
+}
+
+header  .slide p{
+  font-size: 16px;
+  text-align: left;
+  margin-bottom: 20%;
+  font-weight: 300;
+}
+
+/* Caracteristicas */
+
+
+body .main .caracteristicas {
+  padding: 20px 0; }
+  body .main .caracteristicas .titulo {
+    text-align: center;
+    font-family: "Open Sans", arial, sans-serif;
+    font-weight: 300;
+    font-size: 32px;
+    color: #000;
+    margin-bottom: 70px; }
+  body .main .caracteristicas .caracteristica {
+    text-align: center;}
+
+    body .main .caracteristicas .caracteristica img{
+      border-radius: 50%;}
+
+
+    body .main .caracteristicas .caracteristica .icono {
+      vertical-align: top;
+      margin-bottom: 30px; }
+    body .main .caracteristicas .caracteristica .primera_linea {
+      font-weight: 700;
+      margin-bottom: 30px;
+      font-size: 20px; }
+    body .main .caracteristicas .caracteristica .parrafo {
+      margin-bottom: 30px;
+      line-height: 28px; }
+
+body .card-deck{
+  padding: 20px 0 ;
+}
